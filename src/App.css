@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.trafic{
+  margin-top: 20px;
+  margin-left: 37%;
+  margin-right: 37%;
+  background-color: #222;
+width: 200px;
+height: 60px;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 29px 29px 29px 29px;
+   -moz-border-radius: 29px 29px 29px 29px;
+   -webkit-border-radius: 29px 29px 29px 29px;
+   border: 0px solid #000000;
+
+}
+
+.btn {
+margin: 7px;
+padding-top: 50%;
+background-color: aliceblue;
+
+border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 0px solid #000000;
+}
+
+.rgbyellow{
+  margin: 7px;
+  height: 40px;
+  width: 40px;
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #000000;
+  background-color: yellow;
+  box-shadow: 0 0 40px white;
+
+}
+
+.rgbgreen{
+  margin: 7px;
+  height: 40px;
+  width: 40px;
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #000000;
+  background-color: greenyellow;
+  box-shadow: 0 0 40px white;
+}
+
+.rgbred{
+  margin: 7px;
+  height: 40px;
+  width: 40px;
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #000000;
+  background-color: red;
+  box-shadow: 0 0 40px white;
+}
+
+.rgb{
+
+  margin: 7px;
+  height: 40px;
+  width: 40px;
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #000000;
+  border-top-color: white;
+  border: white 5px dotted;
+  
+
+}
+
+
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
